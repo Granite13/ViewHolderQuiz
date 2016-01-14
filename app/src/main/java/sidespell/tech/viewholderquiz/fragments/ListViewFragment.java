@@ -27,14 +27,13 @@ public class ListViewFragment extends Fragment {
         return new ListViewFragment();
     }
 
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
         return inflater.inflate(R.layout.fragment_listview, container, false);
     }
 
-    @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         ViewHolder viewHolder;
 
