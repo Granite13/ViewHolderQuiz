@@ -4,4 +4,42 @@
     <string name="action_gridview">GridView</string>
     <string name="listview_empty">There\'s no item in the listview.</string>
     <string name="gridview_empty">There\'s no item in the gridview.</string>
+
+    <string-array name="anime">
+        <item>Pokemon</item>
+        <item>Bleach</item>
+        <item>Naruto</item>
+        <item>Fairy Tail</item>
+        <item>One Piece</item>
+        <item>One Punch Man</item>
+        <item>Dragon Ball</item>
+        <item>Slam Dunk</item>
+        <item>Hunter X Hunter</item>
+        <item>Magi</item>
+    </string-array>
+
+    <string-array name="imgDraw">
+        <item>@drawable/pokemon</item>
+        <item>@drawable/bleach</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/fairytail</item>
+        <item>@drawable/onepiece</item>
+        <item>@drawable/onepunchman</item>
+        <item>@drawable/dragonball</item>
+        <item>@drawable/slamdunk</item>
+        <item>@drawable/hunterxhunter</item>
+        <item>@drawable/magi</item>
+    </string-array>
+
+    <string-array name="animeDesc">
+        <item>pikachu</item>
+        <item>detergent</item>
+        <item>raisin-gun</item>
+        <item>dragonslayers</item>
+        <item>nautical</item>
+        <item>basketball</item>
+        <item>gon</item>
+        <item>aladin</item>
+    </string-array>
+
 </resources>
